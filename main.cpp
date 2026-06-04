@@ -12,3 +12,7 @@ bool matricesAreEqual(int matrix1[][max_size_of_matrix], int matrix2[][max_size_
                 return false;
     return true;
 }
+
+int main() {
+
+}
